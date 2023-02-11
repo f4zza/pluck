@@ -30,7 +30,7 @@ Next, start the MongoDB server and run the following command to start the applic
 
 `npm start`
     
-The MERN AI Image Generation App will now be running on http://localhost:8080/.
+The MERN AI Image Generation App will now be running on http://localhost:8000/.
 ## Contributing
 
 Contributions are always welcome!
