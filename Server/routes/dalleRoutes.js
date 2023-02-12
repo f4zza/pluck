@@ -18,7 +18,7 @@ router.route('/').get((req,res)=> {
     res.send('dalle test')
 })
 
-router.route('/'.post(async(req,res)=>{
+router.route('/').post(async(req,res)=>{
     try{
         const { prompt } = req.body
 
@@ -34,5 +34,5 @@ router.route('/'.post(async(req,res)=>{
         console.log(err)
         res.status(500).send(error?.response.data.error.message)
     }
-}))
+})
 export default router
