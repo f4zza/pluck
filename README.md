@@ -1,3 +1,4 @@
+<img align="center" src="https://user-images.githubusercontent.com/97915769/218451171-8d0bed24-8537-42b0-bd41-08f7706f594b.png" alt="mern image">
 
 # MERN AI Image Generation App
 
